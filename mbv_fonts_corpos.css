@@ -1,0 +1,16 @@
+/* MBV - Corporate Condpro*/
+@font-face {
+	/* Corporate Corpos Bold */
+	font-family: 'MBV - Corpos';
+	src:
+		url('https://www.mbvans.com/etc/designs/mb-vans/fonts/corpos_bold_webfont.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+
+	/* Corporate Corpos Regular */
+	font-family: 'MBV - Corpos';
+	src:
+		url('https://www.mbvans.com/etc/designs/mb-vans/fonts/corpos_regular_webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
